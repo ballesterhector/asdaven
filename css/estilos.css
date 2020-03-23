@@ -30,9 +30,9 @@ header {
     height: 600px;
     background: #4ca1af;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(180, 31%, 55%, 0.459), hsla(220, 90%, 72%, 0.364)), url(../imgOptimizadas/ilustracion1_opt.jpg);
+    background: -webkit-linear-gradient(to right, hsla(180, 31%, 55%, 0.459), hsla(220, 90%, 72%, 0.364)), url(../imgOptimizadas/negocios_opt.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(180, 31%, 55%, 0.459), hsla(220, 90%, 72%, 0.364)), url(../imgOptimizadas/ilustracion1_opt.jpg);
+    background: linear-gradient(to right, hsla(180, 31%, 55%, 0.459), hsla(220, 90%, 72%, 0.364)), url(../imgOptimizadas/negocios_opt.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
